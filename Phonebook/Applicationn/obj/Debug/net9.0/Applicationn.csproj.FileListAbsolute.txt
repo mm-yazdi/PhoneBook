@@ -1,0 +1,15 @@
+H:\phonebook\Phonebook\Applicationn\bin\Debug\net9.0\Applicationn.deps.json
+H:\phonebook\Phonebook\Applicationn\bin\Debug\net9.0\Applicationn.dll
+H:\phonebook\Phonebook\Applicationn\bin\Debug\net9.0\Applicationn.pdb
+H:\phonebook\Phonebook\Applicationn\bin\Debug\net9.0\Domain.dll
+H:\phonebook\Phonebook\Applicationn\bin\Debug\net9.0\Domain.pdb
+H:\phonebook\Phonebook\Applicationn\obj\Debug\net9.0\Applicationn.csproj.AssemblyReference.cache
+H:\phonebook\Phonebook\Applicationn\obj\Debug\net9.0\Applicationn.GeneratedMSBuildEditorConfig.editorconfig
+H:\phonebook\Phonebook\Applicationn\obj\Debug\net9.0\Applicationn.AssemblyInfoInputs.cache
+H:\phonebook\Phonebook\Applicationn\obj\Debug\net9.0\Applicationn.AssemblyInfo.cs
+H:\phonebook\Phonebook\Applicationn\obj\Debug\net9.0\Applicationn.csproj.CoreCompileInputs.cache
+H:\phonebook\Phonebook\Applicationn\obj\Debug\net9.0\Applicat.1950A39B.Up2Date
+H:\phonebook\Phonebook\Applicationn\obj\Debug\net9.0\Applicationn.dll
+H:\phonebook\Phonebook\Applicationn\obj\Debug\net9.0\refint\Applicationn.dll
+H:\phonebook\Phonebook\Applicationn\obj\Debug\net9.0\Applicationn.pdb
+H:\phonebook\Phonebook\Applicationn\obj\Debug\net9.0\ref\Applicationn.dll

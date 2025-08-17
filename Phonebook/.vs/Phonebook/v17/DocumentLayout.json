@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\phonebook\\Phonebook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38DF093F-80E8-4DFF-BCE8-88E6E4F689D0}|Presentation\\Presentation.csproj|h:\\phonebook\\phonebook\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DF093F-80E8-4DFF-BCE8-88E6E4F689D0}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AD15CA-094F-401A-9545-0420045AAB17}|Applicationn\\Applicationn.csproj|h:\\phonebook\\phonebook\\applicationn\\services\\phonebookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AD15CA-094F-401A-9545-0420045AAB17}|Applicationn\\Applicationn.csproj|solutionrelative:applicationn\\services\\phonebookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DAA659-DE44-4024-A18E-30B3B0919850}|Infrastructuree\\Infrastructuree.csproj|h:\\phonebook\\phonebook\\infrastructuree\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DAA659-DE44-4024-A18E-30B3B0919850}|Infrastructuree\\Infrastructuree.csproj|solutionrelative:infrastructuree\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DAA659-DE44-4024-A18E-30B3B0919850}|Infrastructuree\\Infrastructuree.csproj|h:\\phonebook\\phonebook\\infrastructuree\\migrations\\20250817042454_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DAA659-DE44-4024-A18E-30B3B0919850}|Infrastructuree\\Infrastructuree.csproj|solutionrelative:infrastructuree\\migrations\\20250817042454_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DAA659-DE44-4024-A18E-30B3B0919850}|Infrastructuree\\Infrastructuree.csproj|h:\\phonebook\\phonebook\\infrastructuree\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DAA659-DE44-4024-A18E-30B3B0919850}|Infrastructuree\\Infrastructuree.csproj|solutionrelative:infrastructuree\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AD15CA-094F-401A-9545-0420045AAB17}|Applicationn\\Applicationn.csproj|h:\\phonebook\\phonebook\\applicationn\\interfaces\\iphonebookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AD15CA-094F-401A-9545-0420045AAB17}|Applicationn\\Applicationn.csproj|solutionrelative:applicationn\\interfaces\\iphonebookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DAA659-DE44-4024-A18E-30B3B0919850}|Infrastructuree\\Infrastructuree.csproj|h:\\phonebook\\phonebook\\infrastructuree\\repositories\\phonebookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DAA659-DE44-4024-A18E-30B3B0919850}|Infrastructuree\\Infrastructuree.csproj|solutionrelative:infrastructuree\\repositories\\phonebookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneBookServices.cs",
+              "DocumentMoniker": "H:\\phonebook\\Phonebook\\Applicationn\\Services\\PhoneBookServices.cs",
+              "RelativeDocumentMoniker": "Applicationn\\Services\\PhoneBookServices.cs",
+              "ToolTip": "H:\\phonebook\\Phonebook\\Applicationn\\Services\\PhoneBookServices.cs",
+              "RelativeToolTip": "Applicationn\\Services\\PhoneBookServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T04:40:39.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "H:\\phonebook\\Phonebook\\Infrastructuree\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructuree\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "H:\\phonebook\\Phonebook\\Infrastructuree\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructuree\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T04:40:36.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250817042454_InitialCreate.cs",
+              "DocumentMoniker": "H:\\phonebook\\Phonebook\\Infrastructuree\\Migrations\\20250817042454_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructuree\\Migrations\\20250817042454_InitialCreate.cs",
+              "ToolTip": "H:\\phonebook\\Phonebook\\Infrastructuree\\Migrations\\20250817042454_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructuree\\Migrations\\20250817042454_InitialCreate.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T04:40:33.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "H:\\phonebook\\Phonebook\\Infrastructuree\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructuree\\Data\\AppDbContext.cs",
+              "ToolTip": "H:\\phonebook\\Phonebook\\Infrastructuree\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructuree\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T04:40:24.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\phonebook\\Phonebook\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "H:\\phonebook\\Phonebook\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T22:28:28.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPhoneBookRepository.cs",
+              "DocumentMoniker": "H:\\phonebook\\Phonebook\\Applicationn\\Interfaces\\IPhoneBookRepository.cs",
+              "RelativeDocumentMoniker": "Applicationn\\Interfaces\\IPhoneBookRepository.cs",
+              "ToolTip": "H:\\phonebook\\Phonebook\\Applicationn\\Interfaces\\IPhoneBookRepository.cs",
+              "RelativeToolTip": "Applicationn\\Interfaces\\IPhoneBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T04:39:11.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhoneBookRepository.cs",
+              "DocumentMoniker": "H:\\phonebook\\Phonebook\\Infrastructuree\\Repositories\\PhoneBookRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructuree\\Repositories\\PhoneBookRepository.cs",
+              "ToolTip": "H:\\phonebook\\Phonebook\\Infrastructuree\\Repositories\\PhoneBookRepository.cs",
+              "RelativeToolTip": "Infrastructuree\\Repositories\\PhoneBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T04:37:52.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

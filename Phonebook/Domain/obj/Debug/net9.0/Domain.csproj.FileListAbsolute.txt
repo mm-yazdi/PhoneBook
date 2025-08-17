@@ -1,0 +1,11 @@
+H:\phonebook\Phonebook\Domain\bin\Debug\net9.0\Domain.deps.json
+H:\phonebook\Phonebook\Domain\bin\Debug\net9.0\Domain.dll
+H:\phonebook\Phonebook\Domain\bin\Debug\net9.0\Domain.pdb
+H:\phonebook\Phonebook\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\phonebook\Phonebook\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+H:\phonebook\Phonebook\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+H:\phonebook\Phonebook\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+H:\phonebook\Phonebook\Domain\obj\Debug\net9.0\Domain.dll
+H:\phonebook\Phonebook\Domain\obj\Debug\net9.0\refint\Domain.dll
+H:\phonebook\Phonebook\Domain\obj\Debug\net9.0\Domain.pdb
+H:\phonebook\Phonebook\Domain\obj\Debug\net9.0\ref\Domain.dll
